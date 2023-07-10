@@ -13,6 +13,7 @@ Exploratory Data Analysis used to understand engineer and asnwer questions using
 
 ![Screenshot 2023-07-09 184926](https://github.com/GerardRosario/ExploratoryDataAnalysis/assets/55461102/c6f2ae2a-0ddb-4a89-9389-ede77d1a790e)
 
+![Screenshot 2023-07-09 184958](https://github.com/GerardRosario/ExploratoryDataAnalysis/assets/55461102/edb29a98-7f95-413d-9883-19e32d5b8a64)
 
 
 
