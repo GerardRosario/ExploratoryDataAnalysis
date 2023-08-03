@@ -1,6 +1,6 @@
 # ExploratoryDataAnalysis
 
-Exploratory Data Analysis used to understand engineer and asnwer questions using roller coaster data.
+Exploratory Data Analysis used to understand engineer and answer questions using roller coaster data.
 
 ## Technology / Tools
 - Python (Pandas, NumPy)
